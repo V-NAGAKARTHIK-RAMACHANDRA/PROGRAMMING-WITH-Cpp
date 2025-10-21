@@ -4,26 +4,6 @@ This repository contains C++ programming examples covering various topics from b
 
 ## Repository Files
 
-### Basic C++ Programs (Chapters 1-8)
-- [program1_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program1_1.cpp)
-- [program1_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program1_2.cpp)
-- [program2_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program2_1.cpp)
-- [program2_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program2_2.cpp)
-- [program3_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program3_1.cpp)
-- [program3_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program3_2.cpp)
-- [program3_3.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program3_3.cpp)
-- [program4_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program4_1.cpp)
-- [program4_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program4_2.cpp)
-- [program4_3.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program4_3.cpp)
-- [program5_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program5_1.cpp)
-- [program5_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program5_2.cpp)
-- [program5_3.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program5_3.cpp)
-- [program6_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program6_1.cpp)
-- [program6_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program6_2.cpp)
-- [program7_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program7_1.cpp)
-- [program7_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program7_2.cpp)
-- [program8_1.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program8_1.cpp)
-- [program8_2.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/program8_2.cpp)
 
 ### Advanced Topics (Chapters 9-12)
 - [9.1-virtual functions.cpp](https://github.com/V-NAGAKARTHIK-RAMACHANDRA/PROGRAMMING-WITH-Cpp/blob/main/9.1-virtual%20functions.cpp)
